@@ -1,0 +1,52 @@
+#typing {
+  margin-top: 300px;
+  font-size: 40px;
+  font-weight: 600;
+  color: #5a5f64;
+}
+
+#introLogo {
+  margin: 180px auto 0 auto;
+}
+
+#joinBtn {
+  background-color: #4285F4;
+  color: white;
+  position: relative;
+  /* margin-top: 50px; */
+}
+
+#intro {
+  height: 500px;
+  width: 100vw;
+  text-align: center;
+  margin: 0 auto;
+  background-image: url("../../../assets/dscbanner.png");
+  /* background-attachment: fixed; */
+  background-position: center;
+  background-size: cover;
+}
+
+/* #introLogo {
+    margin-left: 100px;
+} */
+
+#introContent {
+  justify-content: center;
+}
+
+/* #introBtns {
+  margin-top: 30vh;
+} */
+
+/* .socialLogo {
+  height: 37px;
+  opacity: 60%;
+  transition: 0.5s;
+}
+
+.socialLogo:hover {
+  transition: 0.5s;
+  transform: scale(1.05);
+  opacity: 80%;
+} */

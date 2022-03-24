@@ -1,0 +1,16 @@
+#teamHeading {
+    padding-top: 60px;
+    text-align: center;
+}
+
+#teamHeading h1 {
+    font-size: 60px;
+    color: #4285F4;
+    margin-bottom: 10px;
+}
+
+#teamHeading p {
+    width: 50%;
+    font-size: 20px;
+    margin: 10px auto 40px auto;
+}
