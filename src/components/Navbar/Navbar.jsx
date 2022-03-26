@@ -25,7 +25,7 @@ export class Navbar extends Component {
                 </a>
                 <a className='navfloatright' href='/team/2020'>Team</a>
                 <a className='navfloatright' target="_blank" href='https://medium.com/dscutsg'>Blog</a>
-                <a className='navfloatright' target="_blank" href="https://fantastic-tarsier-aa7418.netlify.app/">Events</a>
+                <a className='navfloatright' target="_blank" href="https://tranquil-semolina-9f41e2.netlify.app/">Events</a>
                 <a className='navfloatright' href="/">Home</a>
                 {/* <div style={{float: 'right'}}>    */}
                     {/* <Menu right>
